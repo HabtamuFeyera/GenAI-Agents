@@ -1,5 +1,5 @@
 # **GenAI-Agents** 🚀  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)  
 
